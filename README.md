@@ -1,4 +1,4 @@
-<h1 align="left">Hi there!</h1>
+<h1 align="left">Hi there! :wave:</h1>
 <p>I'm Ahmee, a self-taught data analyst located in Minnesota. After graduating from the University of Minnesota, I transitioned to teaching myself the skills to become an analyst.
 
 <h3 align="left">Check out my portfolio :smiley:</h3>
